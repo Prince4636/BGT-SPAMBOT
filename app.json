@@ -1,7 +1,7 @@
 {
     "name": "BGT SPAM BOT",
     "description": "MOST POWERFUL + STABLE SPAM USERBOTS",
-    "logo": "",
+    "logo": "https://te.legra.ph/file/62d8a588996d71a3cce98.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -20,7 +20,7 @@
       },
       "ALIVE_PIC": {
         "description": "your alive pic or video",
-        "value": "",
+        "value": "https://te.legra.ph/file/62d8a588996d71a3cce98.jpg",
         "required": false
       },
       "API_HASH": {

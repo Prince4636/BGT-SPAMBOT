@@ -1,1 +1,1 @@
-Bikashhalder: python3 -m Bikashhalder
+Bikashhalder: python -m Bikashhalder

@@ -1,1 +1,1 @@
-Bikashhalder: python -m Bikashhalder
+worker: bash setup

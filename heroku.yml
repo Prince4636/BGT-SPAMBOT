@@ -1,5 +1,5 @@
 build:
   docker:
-    OfficialSameer: Dockerfile
+    worker: Dockerfile
 run:
-  OfficialSameer: python3 -m Bikashhalder
+  worker: python3 -m Bikashhalder

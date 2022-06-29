@@ -1,1 +1,1 @@
-worker: python3 -m Bikashahalder
+worker: python3 -m Bikashhalder

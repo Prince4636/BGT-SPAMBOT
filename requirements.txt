@@ -1,8 +1,0 @@
-python-decouple
-telethon
-cryptg
-heroku3
-sqlalchemy==1.4.11
-psycopg2
-gitpython
-asyncio

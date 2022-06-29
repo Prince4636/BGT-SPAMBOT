@@ -7,8 +7,7 @@ from Bikashhalder import CMD_HNDLR as hl
     
 HELP_PIC = "https://te.legra.ph/file/860117bc941734b04265c.jpg"
 
-BGT_Help = "🔥 🇧𝗚𝗧 🇸𝗣𝗔𝗠
- 🇧𝗢𝗧 🔥\n\n"
+BGT_Help = "🔥 🇧𝗚𝗧 🇸𝗣𝗔𝗠 🇧𝗢𝗧 🔥\n\n"
  
 BGT_Help += f"_ᴄᴍɴᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ʙɢᴛ ʙᴏᴛ__\n\n"
 

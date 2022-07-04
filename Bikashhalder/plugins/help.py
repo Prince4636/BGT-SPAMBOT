@@ -9,25 +9,25 @@ HELP_PIC = "https://te.legra.ph/file/860117bc941734b04265c.jpg"
 
 BGT_Help = "🔥 🇧𝗚𝗧 🇸𝗣𝗔𝗠 🇧𝗢𝗧 🔥\n\n"
  
-BGT_Help += f"☜🇧𝗚𝗧 🇸𝗣𝗔𝗠 🇧𝗢𝗧 𝗔𝗟𝗟 𝗖𝗠𝗗𝗦 ☞\n\n"
+BGT_Help += f"🇧𝗚𝗧 🇸𝗣𝗔𝗠🇧𝗢𝗧 𝗔𝗟𝗟 𝗖𝗠𝗗𝗦 ➪\n\n"
 
-BGT_Help += f" ∨ 𝑺ƤƛM ƁƠƬ ƇMƊƧ ∨\n\n"
+BGT_Help += f" ᐁ 𝐒𝐩𝐚𝐦 𝐁𝐨𝐭 𝐂𝐨𝐦𝐦𝐚𝐧𝐝'𝐒 ᐁ\n\n"
 
-BGT_Help += f" `$ping` - ƇӇЄƇƘ ƤƖƝƓ\n `$alive` - ƇӇЄƇƘ ƁƠƬ ƛԼƖƔЄ/ƔЄƦƧƖƠƝ ( ƠƝԼƳ 1ƧƬ ƧƤƛMƝƠƬ ƦЄƤԼƳ)\n .`$restart` - ƦЄƧƬƛƦƬ ƛԼԼ ƁƠƬƧ \n `$addecho` -  ƬƠ ƛƊƊ ЄƇӇƠ \n `$rmecho` - ƬƠ ƦЄMƠƔЄ ЄƇӇƠ \n `$addsudo` - ƬƠ ƛƊƊ ƧƲƊƠ ƲƧЄƦ ƲƧƖƝƓ ƧƤƛM ƁƠƬƧ \n\n"
+BGT_Help += f" `$ping` - ᴄʜᴇᴄᴋ ᴘɪɴɢ\n `$alive` - ᴄʜᴇᴄᴋ ʙᴏᴛ ᴀʟɪᴠᴇ/ᴠɪʀsɪᴏɴ ( ᴏɴʟʏ 1sᴛ sᴘᴀᴍʙᴏᴛ ᴡɪʟʟ ʀᴇᴘʟʏ )\n .`$restart` - ʀᴇsᴛᴀʀᴛ ᴀʟʟ ʙᴏᴛs \n `$addecho` -  ᴛᴏ ᴀᴅᴅ ᴇᴄʜᴏ \n `$rmecho` - ᴛᴏ ʀᴇᴍᴏᴠᴇ ᴇᴄʜᴏ \n `$addsudo` - ᴛᴏ ᴀᴅᴅ sᴜᴅᴏ ᴜsᴇʀ ᴜsɪɴɢ sᴘᴀᴍ ʙᴏᴛs \n\n"
  
-BGT_Help += f" ᐁ ԼЄƛƔЄ ƇƠMMƛƊ ᐁ\n\n"
+BGT_Help += f" ᐁ 𝐋𝐞𝐚𝐯𝐞 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 ᐁ\n\n"
 
-BGT_Help += f" `$leave` - ƬƠ ԼЄƛƔЄ ƛƝƳ ƇӇƝƝƝЄԼ ƠƦ ƓƦƠƲƤ \n\n"
+BGT_Help += f" `$leave` - ᴛᴏ ʟᴇᴀᴠᴇ ᴀɴʏ ᴄʜᴀɴɴᴇʟ ᴏʀ ɢʀᴏᴜᴘ \n\n"
  
-BGT_Help += f" ࿇ƛԼԼ ƧƤƛM ƇƠMMƛƝƊ ࿇ \n\n"
+BGT_Help += f" ࿇𝐀𝐥𝐥 𝐒𝐩𝐚𝐦 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 ࿇ \n\n"
 
-BGT_Help += f" `$raid` - ƬƠ ƦƛƖƊ\n `$replyraid` - ƛƇƬƖƔЄ ƦЄƤԼƳ ƦƛƖƊ\n `$dreplyraid` -ƊЄ-ƛƇƬƖƔЄ ƦЄƤԼƳ ƦƛƖƊ\n `$spam` - ƬӇƖƧ ƇMƊ ƲƧЄ ƠƝԼƳ ƝƠƦMƛԼ ƧƤƛM\n `$bigspam` - ƲƧЄ ƬƠ ƁƖƓ ƧƤƛM\n `$uspam` - ƲƧЄ ƠƝԼƳ ƲƝԼƖMƖƬЄƊ ƧƤƛM Ʋ ƜƛƝƬ ƧƬƠƤ ƧƤƛM ƬЄƝ ƦЄƧƬƛƦƬ ƁƠƬƧ!!\n `$bgtspam` - ƬӇƖƧ ƇMƊ ƲƧЄ ƠƝԼƳ 18+ƲƧЄƦ\n\n"
+BGT_Help += f" `$raid` - ᴛᴏ ʀᴀɪᴅ\n `$replyraid` - ᴀᴄᴛɪᴠᴇ ʀᴇᴘʟʏ ʀᴀɪᴅ\n `$dreplyraid` -ᴅᴇ-ᴀᴄᴛɪᴠᴇ ʀᴇᴘʟʏ ʀᴀɪᴅ\n `$spam` - ᴛᴏ  ɴᴏʀᴍᴀʟ sᴘᴀᴍ\n `$bigspam` - ᴜsᴇ ᴛᴏ ʙɪɢ sᴘᴀᴍ\n `$uspam` - ᴜsᴇ ᴏɴʟʏ ᴜɴʟɪᴍɪᴛᴇᴅ sᴘᴀᴍ ᴜ ᴡᴀɴᴛ sᴛᴏᴘ sᴘᴀᴍ ᴛʜᴇɴ ʀᴇsᴛᴀʀᴛ ʙᴏᴛs!!\n `$bgtspam` - ᴛʜɪs sᴘᴀᴍ ᴜsᴇ ᴏɴʟʏ 18+ Usᴇʀ (ᴘᴏʀɴ)\n\n"
 
-BGT_Help += f" $bgtopspam -  ƊƠƝ'Ƭ ƲƧЄ ƬӇƖƧ ƇƠMMƛƝƊ 〠᯼\n\n"
+BGT_Help += f" `$bgtopspam` -  ᴏɴʟʏ sʜᴏᴡ ᴛʜɪs ʜᴇʟᴘ 〠᯼\n\n"
 
-BGT_Help += f"♕︎ƠƜƝЄƦ♕︎ @BikashHalder\n"
+BGT_Help += f"♕︎𝐂𝐫𝐞𝐚𝐭𝐨𝐫♕︎ @BikashHalder\n"
 
-BGT_Help += f"♕︎ƠƜƝЄƦ♕︎ @AdityaHalder\n"
+BGT_Help += f"♕︎𝐂𝐫𝐞𝐚𝐭𝐨𝐫♕︎ @AdityaHalder\n"
 
 
 @BOT0.on(events.NewMessage(incoming=True, pattern=r"\%shelp(?: |$)(.*)" % hl))
@@ -38,7 +38,7 @@ async def help(event):
                                   caption=BGT_Help,
                                   buttons=[
         [
-        Button.url("𝐂𝐡𝐚𝐧𝐧𝐞𝐥", "https://t.me/BikashGedgetsTech"),
+        Button.url("𝐁𝐆𝐓", "https://t.me/BikashGedgetsTech"),
         Button.url("𝐊𝐖", "https://t.me/Kaalware")
         ] 
         ]

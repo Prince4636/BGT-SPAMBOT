@@ -38,7 +38,7 @@ async def help(event):
                                   caption=BGT_Help,
                                   buttons=[
         [
-        Button.url("𝐁𝐆𝐓", "https://t.me/BikashGedgetsTech"),
+        Button.url("𝐁𝐆𝐓", "https://t.me/BikashGadgetsTech"),
         Button.url("𝐊𝐖", "https://t.me/Kaalware")
         ] 
         ]

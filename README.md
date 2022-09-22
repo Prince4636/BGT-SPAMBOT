@@ -10,7 +10,7 @@
 [![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/sameerpanthi/deadly-spam-bot/graphs/commit-activity)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/sameerpanthi/deadly-spam-bot)   
-[![Contributors](https://img.shields.io/github/contributors/sameerpanthi/deadly-spam-bot?style=flat-square&color=green)](https://github.com/sameerpanthi/deadly-spam-bot/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/sameerpanthi/deadly-spam-bot?style=flat-square&color=green)](https://github.com/Prince4636/deadly-spam-bot/graphs/contributors)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/sameerpanthi/deadly-spam-bot/blob/main/LICENSE)
 
